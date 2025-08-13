@@ -1,6 +1,25 @@
 {
-  "dependencies": {
+  "name": "provarpvjs",
+  "version": "0.0.1",
+  "description": "prova de logica do rpv refeita em js",
+  "main": "index.js",
+    "dependencies": {
     "chalk": "^5.5.0",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreMilaniNio/DesafioProvaRPV.git"
+  },
+  "author": "André Milani",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/AndreMilaniNio/DesafioProvaRPV/issues"
+  },
+  "homepage": "https://github.com/AndreMilaniNio/DesafioProvaRPV#readme"
 }
